@@ -259,17 +259,3 @@ SOURCE demo_queries.sql;
 
 ---
 
-# Learning Outcomes
-
-Through this project, the following database concepts were implemented and understood:
-
-• Relational database design
-• Entity relationship modeling
-• SQL query development
-• Data integrity using constraints
-• Automation using triggers
-• Modular operations using stored procedures
-• Data abstraction using views
-
----
-
